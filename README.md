@@ -1,0 +1,2 @@
+# GenshinDailyAssistant
+基于Python制作的原神每日委托查询小助手
